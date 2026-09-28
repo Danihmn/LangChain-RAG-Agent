@@ -9,8 +9,12 @@ authors = [
 requires-python = ">=3.14"
 dependencies = [
     "langchain>=1.4.2",
+    "langchain-chroma>=1.1.0",
+    "langchain-community>=0.4.2",
     "langchain-ollama>=1.1.0",
+    "langchain-text-splitters>=1.1.2",
     "langgraph-cli[inmem]>=0.4.32",
+    "pypdf>=6.19.0",
 ]
 
 [project.scripts]
