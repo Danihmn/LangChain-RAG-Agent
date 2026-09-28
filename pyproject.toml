@@ -19,7 +19,3 @@ dependencies = [
 
 [project.scripts]
 langchain-rag-agent = "langchain_rag_agent:main"
-
-[build-system]
-requires = ["uv_build>=0.12.17,<0.13.0"]
-build-backend = "uv_build"

@@ -3,7 +3,7 @@
     "."
   ],
   "graphs": {
-    "agent": "./src/langchain_rag_agent/ollama_chat.py:agent"
+    "agent": "ollama_chat.py:agent"
   },
   "env": ".env"
 }
