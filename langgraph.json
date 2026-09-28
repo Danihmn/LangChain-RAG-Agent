@@ -3,7 +3,7 @@
     "."
   ],
   "graphs": {
-    "agent": "ollama_chat.py:agent"
+    "agent": "./agent.py:agent"
   },
   "env": ".env"
 }

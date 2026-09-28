@@ -16,6 +16,3 @@ dependencies = [
     "langgraph-cli[inmem]>=0.4.32",
     "pypdf>=6.19.0",
 ]
-
-[project.scripts]
-langchain-rag-agent = "langchain_rag_agent:main"

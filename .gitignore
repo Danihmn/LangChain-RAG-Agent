@@ -11,3 +11,12 @@ wheels/
 
 # IDE
 .idea/
+
+# Environment variables
+.env
+
+# LangGraph dev server local state
+.langgraph_api/
+
+# Chroma vector store (generated from documents/)
+chroma_db/
